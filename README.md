@@ -10,5 +10,6 @@
 ![QuantitativeComparisons](./images/quantitative.png)
 ## Dataset and pre-training models
 **Dataset is as follows:**
-
-**BaiDuYun:  https://pan.baidu.com/s/1A1qdvj1yY99YLHxGeYIXaQ code: pw53 **
+**BaiDuYun:  https://pan.baidu.com/s/1A1qdvj1yY99YLHxGeYIXaQ code: pw53**
+**Pretraining models are as follows:**
+**BaiDuYun: https://pan.baidu.com/s/1687GsTXCIB5cdnrpHGS7OQ code: fw7u**
